@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SQLite_Example</string>
+    <string name="postBtn">Post to db</string>
+    <string name="readBtn">Read from db</string>
+</resources>
